@@ -5,3 +5,5 @@ public class App {
     }
 }
 // Santiago Gonzalez Villada, 2559994
+// Santiago Palomino, 
+// Juan Pablo Pillimue,
